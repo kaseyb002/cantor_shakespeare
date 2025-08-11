@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title><![CDATA[Shakespeare & Politics - Michael Davis (Archive)]]></title>
+    <title><![CDATA[Shakespeare & Politics]]></title>
     <link>https://github.com/kaseyb002/cantor_shakespeare</link>
     <atom:link href="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
