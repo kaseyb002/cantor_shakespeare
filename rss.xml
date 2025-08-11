@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shakespeare &amp; Politics — Michael Davis (Archive)</title>
+    <link>https://github.com/kaseyb002/cantor_shakespeare</link>
+    <atom:link href="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© 2025 Michael Davis (archival use). Non-commercial educational archive.</copyright>
+    <itunes:author>Michael Davis — archived by Kasey Baughan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kasey Baughan</itunes:name>
+      <itunes:email>kasey@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/cantor.png"/>
+    <description>Lectures on Shakespeare’s plays, political themes, and the human soul. Unofficial archive for study.</description>
+
+    <!-- item order follows your numeric filenames; dates spaced 12h apart starting Aug 1, 2025 -->
+    <!-- If you want different dates, say so and I’ll re-sequence. -->
+
+    <!-- Helper notes:
+         - enclosure url: GitHub raw file
+         - enclosure length: 0 (placeholder); we can insert exact bytes later
+         - itunes:image: per-play classic artwork from Wikimedia Commons
+    -->
+
+    <item>
+      <title>Introduction to Shakespeare and Politics</title>
+      <description>Introduction to Shakespeare and Politics</description>
+      <pubDate>Fri, 01 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">001_introduction_to_shakespeare_and_politics_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/001_introduction_to_shakespeare_and_politics_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:46</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/1/10/Shakespeare_Droeshout_1623.jpg"/>
+    </item>
+
+    <item>
+      <title>Hamlet — Lecture 1 of 3</title>
+      <description>Hamlet — Lecture 1 of 3</description>
+      <pubDate>Fri, 01 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">002_hamlet_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/002_hamlet_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:16</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/William_Morris_Hunt_-_Hamlet_-_2000.1231_-_Museum_of_Fine_Arts.jpg"/>
+    </item>
+
+    <item>
+      <title>Hamlet — Lecture 2 of 3</title>
+      <description>Hamlet — Lecture 2 of 3</description>
+      <pubDate>Sat, 02 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">003_hamlet_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/003_hamlet_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:33</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/William_Morris_Hunt_-_Hamlet_-_2000.1231_-_Museum_of_Fine_Arts.jpg"/>
+    </item>
+
+    <item>
+      <title>Hamlet — Lecture 3 of 3</title>
+      <description>Hamlet — Lecture 3 of 3</description>
+      <pubDate>Sat, 02 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">004_hamlet_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/004_hamlet_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:30</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/William_Morris_Hunt_-_Hamlet_-_2000.1231_-_Museum_of_Fine_Arts.jpg"/>
+    </item>
+
+    <item>
+      <title>Macbeth — Lecture 1 of 3</title>
+      <description>Macbeth — Lecture 1 of 3</description>
+      <pubDate>Sun, 03 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">005_macbeth_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/005_macbeth_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:24</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Fuseli_%281741-1825%29_-_Macbeth%2C_Banquo_and_the_Witches_%28from_William_Shakespeare%27s_%27Macbeth%27%2C_Act_I%2C_Scene_iii%29_-_486261_-_National_Trust.jpg"/>
+    </item>
+
+    <item>
+      <title>Macbeth — Lecture 2 of 3</title>
+      <description>Macbeth — Lecture 2 of 3</description>
+      <pubDate>Sun, 03 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">006_macbeth_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/006_macbeth_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:27</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Fuseli_%281741-1825%29_-_Macbeth%2C_Banquo_and_the_Witches_%28from_William_Shakespeare%27s_%27Macbeth%27%2C_Act_I%2C_Scene_iii%29_-_486261_-_National_Trust.jpg"/>
+    </item>
+
+    <item>
+      <title>Macbeth — Lecture 3 of 3</title>
+      <description>Macbeth — Lecture 3 of 3</description>
+      <pubDate>Mon, 04 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">007_macbeth_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/007_macbeth_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:20:18</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Henry_Fuseli_%281741-1825%29_-_Macbeth%2C_Banquo_and_the_Witches_%28from_William_Shakespeare%27s_%27Macbeth%27%2C_Act_I%2C_Scene_iii%29_-_486261_-_National_Trust.jpg"/>
+    </item>
+
+    <item>
+      <title>Othello — Lecture 1 of 3</title>
+      <description>Othello — Lecture 1 of 3</description>
+      <pubDate>Mon, 04 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">008_othello_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/008_othello_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:54</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Chass%C3%A9riau_-_Othello_et_Desd%C3%A9mone_%C3%A0_Venise._Othello_rcontant_%C3%A0_esd%C3%A9mone_sa_vie_%28Shakespeare%2C_Othello%2C_acte_I%2C_sc%C3%A8ne_3%29%2C_1850%2C_RF_3897.jpg"/>
+    </item>
+
+    <item>
+      <title>Othello — Lecture 2 of 3</title>
+      <description>Othello — Lecture 2 of 3</description>
+      <pubDate>Tue, 05 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">009_othello_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/009_othello_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:30</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Chass%C3%A9riau_-_Othello_et_Desd%C3%A9mone_%C3%A0_Venise._Othello_rcontant_%C3%A0_esd%C3%A9mone_sa_vie_%28Shakespeare%2C_Othello%2C_acte_I%2C_sc%C3%A8ne_3%29%2C_1850%2C_RF_3897.jpg"/>
+    </item>
+
+    <item>
+      <title>Othello — Lecture 3 of 3</title>
+      <description>Othello — Lecture 3 of 3</description>
+      <pubDate>Tue, 05 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">010_othello_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/010_othello_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:45</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Chass%C3%A9riau_-_Othello_et_Desd%C3%A9mone_%C3%A0_Venise._Othello_rcontant_%C3%A0_esd%C3%A9mone_sa_vie_%28Shakespeare%2C_Othello%2C_acte_I%2C_sc%C3%A8ne_3%29%2C_1850%2C_RF_3897.jpg"/>
+    </item>
+
+    <item>
+      <title>The Merchant of Venice — Lecture 1 of 3</title>
+      <description>The Merchant of Venice — Lecture 1 of 3</description>
+      <pubDate>Wed, 06 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">011_the_merchant_of_venice_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/011_the_merchant_of_venice_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:43</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Shylock_and_Jessica_1876.jpg"/>
+    </item>
+
+    <item>
+      <title>The Merchant of Venice — Lecture 2 of 3</title>
+      <description>The Merchant of Venice — Lecture 2 of 3</description>
+      <pubDate>Wed, 06 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">012_the_merchant_of_venice_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/012_the_merchant_of_venice_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:25</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Shylock_and_Jessica_1876.jpg"/>
+    </item>
+
+    <item>
+      <title>The Merchant of Venice — Lecture 3 of 3</title>
+      <description>The Merchant of Venice — Lecture 3 of 3</description>
+      <pubDate>Thu, 07 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">013_the_merchant_of_venice_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/013_the_merchant_of_venice_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:48</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Shylock_and_Jessica_1876.jpg"/>
+    </item>
+
+    <item>
+      <title>Julius Caesar — Lecture 1 of 3</title>
+      <description>Julius Caesar — Lecture 1 of 3</description>
+      <pubDate>Thu, 07 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">014_julius_caesar_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/014_julius_caesar_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:52</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo_Camuccini_-_La_morte_di_Cesare_%28cropped%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Julius Caesar — Lecture 2 of 3</title>
+      <description>Julius Caesar — Lecture 2 of 3</description>
+      <pubDate>Fri, 08 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">015_julius_caesar_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/015_julius_caesar_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:24</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo_Camuccini_-_La_morte_di_Cesare_%28cropped%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Julius Caesar — Lecture 3 of 3</title>
+      <description>Julius Caesar — Lecture 3 of 3</description>
+      <pubDate>Fri, 08 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">016_julius_caesar_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/016_julius_caesar_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:40</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo_Camuccini_-_La_morte_di_Cesare_%28cropped%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Shakespeare’s Rome — Day 1 (Intro: Coriolanus)</title>
+      <description>Shakespeare’s Rome — Day 1 (Intro: Coriolanus)</description>
+      <pubDate>Sat, 09 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/017_shakespeare_s_rome_day_1_intro_coriolanus_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:41:29</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Coriolanus.jpg"/>
+    </item>
+
+    <item>
+      <title>Shakespeare’s Rome — Day 2 (Coriolanus &amp; Julius Caesar)</title>
+      <description>Shakespeare’s Rome — Day 2 (Coriolanus &amp; Julius Caesar)</description>
+      <pubDate>Sat, 09 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/018_shakespeare_s_rome_day_2_coriolanus_julius_caesar_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:46:57</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Coriolanus.jpg"/>
+    </item>
+
+    <item>
+      <title>Shakespeare’s Rome — Day 3 (Julius Caesar)</title>
+      <description>Shakespeare’s Rome — Day 3 (Julius Caesar)</description>
+      <pubDate>Sun, 10 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/019_shakespeare_s_rome_day_3_julius_caesar_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:44:39</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Vincenzo_Camuccini_-_La_morte_di_Cesare_%28cropped%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Shakespeare’s Rome — Day 5 (Antony &amp; Cleopatra) — Conclusion</title>
+      <description>Shakespeare’s Rome — Day 5 (Antony &amp; Cleopatra) — Conclusion</description>
+      <pubDate>Sun, 10 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/020_shakespeare_s_rome_day_5_antony_cleopatra_conclusion_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:48:12</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg"/>
+    </item>
+
+    <item>
+      <title>Shakespeare’s Rome — Day 4 (Julius Caesar → Antony &amp; Cleopatra)</title>
+      <description>Shakespeare’s Rome — Day 4 (Julius Caesar → Antony &amp; Cleopatra)</description>
+      <pubDate>Mon, 11 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/021_shakespeare_s_rome_day_4_julius_caesar_antony_cleopatra_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>02:44:53</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry V — Lecture 1 of 3</title>
+      <description>Henry V — Lecture 1 of 3</description>
+      <pubDate>Mon, 11 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">022_henry_v_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/022_henry_v_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:29</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/King_Henry_V_from_NPG.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry V — Lecture 2 of 3</title>
+      <description>Henry V — Lecture 2 of 3</description>
+      <pubDate>Tue, 12 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">023_henry_v_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/023_henry_v_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:35</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/King_Henry_V_from_NPG.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry V — Lecture 3 of 3</title>
+      <description>Henry V — Lecture 3 of 3</description>
+      <pubDate>Tue, 12 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">024_henry_v_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/024_henry_v_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:05</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/King_Henry_V_from_NPG.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry V — Lecture 2 of 4</title>
+      <description>Henry V — Lecture 2 of 4</description>
+      <pubDate>Wed, 13 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">025_henry_v_lecture_2_of_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/025_henry_v_lecture_2_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:20:10</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/King_Henry_V_from_NPG.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry V — Lecture 3 of 4</title>
+      <description>Henry V — Lecture 3 of 4</description>
+      <pubDate>Wed, 13 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">026_henry_v_lecture_3_of_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/026_henry_v_lecture_3_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:25</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/King_Henry_V_from_NPG.jpg"/>
+    </item>
+
+    <item>
+      <title>Antony and Cleopatra — Lecture 1 of 3</title>
+      <description>Antony and Cleopatra — Lecture 1 of 3</description>
+      <pubDate>Thu, 14 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">027_antony_and_cleopatra_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/027_antony_and_cleopatra_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:22</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg"/>
+    </item>
+
+    <item>
+      <title>Antony and Cleopatra — Lecture 2 of 3</title>
+      <description>Antony and Cleopatra — Lecture 2 of 3</description>
+      <pubDate>Thu, 14 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">028_antony_and_cleopatra_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/028_antony_and_cleopatra_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:01</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg"/>
+    </item>
+
+    <item>
+      <title>Antony and Cleopatra — Lecture 3 of 3</title>
+      <description>Antony and Cleopatra — Lecture 3 of 3</description>
+      <pubDate>Fri, 15 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">029_antony_and_cleopatra_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/029_antony_and_cleopatra_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:11</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Lawrence_Alma-Tadema_-_The_Meeting_of_Antony_and_Cleopatra.jpg"/>
+    </item>
+
+    <item>
+      <title>Coriolanus — Lecture 1 of 3</title>
+      <description>Coriolanus — Lecture 1 of 3</description>
+      <pubDate>Fri, 15 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">030_coriolanus_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/030_coriolanus_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:20:10</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Coriolanus.jpg"/>
+    </item>
+
+    <item>
+      <title>Coriolanus — Lecture 2 of 3</title>
+      <description>Coriolanus — Lecture 2 of 3</description>
+      <pubDate>Sat, 16 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">031_coriolanus_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/031_coriolanus_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:55</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Coriolanus.jpg"/>
+    </item>
+
+    <item>
+      <title>Coriolanus — Lecture 3 of 3</title>
+      <description>Coriolanus — Lecture 3 of 3</description>
+      <pubDate>Sat, 16 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">032_coriolanus_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/032_coriolanus_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:49</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Coriolanus.jpg"/>
+    </item>
+
+    <item>
+      <title>Richard II — Lecture 1 of 3 (Introduction)</title>
+      <description>Richard II — Lecture 1 of 3 (Introduction)</description>
+      <pubDate>Sun, 17 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">033_introduction_richard_ii_lecture_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/033_introduction_richard_ii_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:39</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Wilton_diptych.jpg"/>
+    </item>
+
+    <item>
+      <title>Richard II — Lecture 2 of 3</title>
+      <description>Richard II — Lecture 2 of 3</description>
+      <pubDate>Sun, 17 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">034_richard_ii_lecture_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/034_richard_ii_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:18:25</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Wilton_diptych.jpg"/>
+    </item>
+
+    <item>
+      <title>Richard II — Lecture 3 of 3 → Henry IV Part One — Lecture 1 of 3</title>
+      <description>Richard II — Lecture 3 of 3 → Henry IV Part One — Lecture 1 of 3</description>
+      <pubDate>Mon, 18 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/035_richard_ii_lecture_3_of_3_henry_iv_part_one_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:18:14</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_von_Gr%C3%BCtzner_-_Falstaff_%281906%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry IV Part One — Lecture 2 of 3</title>
+      <description>Henry IV Part One — Lecture 2 of 3</description>
+      <pubDate>Mon, 18 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">036_henry_iv_part_one_lecture_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/036_henry_iv_part_one_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:21:58</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_von_Gr%C3%BCtzner_-_Falstaff_%281906%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry IV Part One — Lecture 3 of 3 → Henry IV Part Two — Lecture 1 of 3</title>
+      <description>Henry IV Part One — Lecture 3 of 3 → Henry IV Part Two — Lecture 1 of 3</description>
+      <pubDate>Tue, 19 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/037_henry_iv_part_one_lecture_3_of_3_henry_iv_part_two_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:19:54</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_von_Gr%C3%BCtzner_-_Falstaff_%281906%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry IV Part Two — Lecture 2 of 3</title>
+      <description>Henry IV Part Two — Lecture 2 of 3</description>
+      <pubDate>Tue, 19 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">038_henry_iv_part_two_lecture_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/038_henry_iv_part_two_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:23</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Eduard_von_Gr%C3%BCtzner_-_Falstaff_%281906%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry IV Part Two — Lecture 3 of 3 → Henry V — Lecture 1 of 4</title>
+      <description>Henry IV Part Two — Lecture 3 of 3 → Henry V — Lecture 1 of 4</description>
+      <pubDate>Wed, 20 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/039_henry_iv_part_two_lecture_3_of_3_henry_v_lecture_1_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:44</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/King_Henry_V_from_NPG.jpg"/>
+    </item>
+
+    <item>
+      <title>Henry V — Lecture 4 of 4 → Romeo and Juliet — Lecture 1 of 3</title>
+      <description>Henry V — Lecture 4 of 4 → Romeo and Juliet — Lecture 1 of 3</description>
+      <pubDate>Wed, 20 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/040_henry_v_lecture_4_of_4_romeo_and_juliet_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:59</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/DickseeRomeoandJuliet.jpg"/>
+    </item>
+
+    <item>
+      <title>Romeo and Juliet — Lecture 2 of 3</title>
+      <description>Romeo and Juliet — Lecture 2 of 3</description>
+      <pubDate>Thu, 21 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">041_romeo_and_juliet_lecture_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/041_romeo_and_juliet_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:25</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/DickseeRomeoandJuliet.jpg"/>
+    </item>
+
+    <item>
+      <title>Romeo and Juliet — Lecture 3 of 3 → A Midsummer Night’s Dream — Lecture 1 of 3</title>
+      <description>Romeo and Juliet — Lecture 3 of 3 → A Midsummer Night’s Dream — Lecture 1 of 3</description>
+      <pubDate>Thu, 21 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/042_romeo_and_juliet_lecture_3_of_3_a_midsummer_night_s_dream_lecture_1_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:24</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg"/>
+    </item>
+
+    <item>
+      <title>A Midsummer Night’s Dream — Lecture 2 of 3</title>
+      <description>A Midsummer Night’s Dream — Lecture 2 of 3</description>
+      <pubDate>Fri, 22 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/043_a_midsummer_night_s_dream_lecture_2_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:22:40</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg"/>
+    </item>
+
+    <item>
+      <title>A Midsummer Night’s Dream — Lecture 3 of 3</title>
+      <description>A Midsummer Night’s Dream — Lecture 3 of 3</description>
+      <pubDate>Fri, 22 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/044_a_midsummer_night_s_dream_lecture_3_of_3_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:25:55</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg"/>
+    </item>
+
+    <item>
+      <title>As You Like It — Lecture 1 of 2</title>
+      <description>As You Like It — Lecture 1 of 2</description>
+      <pubDate>Sat, 23 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">045_as_you_like_it_lecture_1_of_2_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/045_as_you_like_it_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:02</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Rosalind_%28As_You_Like_It%29.jpg"/>
+    </item>
+
+    <item>
+      <title>As You Like It — Lecture 2 of 2</title>
+      <description>As You Like It — Lecture 2 of 2</description>
+      <pubDate>Sat, 23 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">046_as_you_like_it_lecture_2_of_2_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/046_as_you_like_it_lecture_2_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:35</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Rosalind_%28As_You_Like_It%29.jpg"/>
+    </item>
+
+    <item>
+      <title>Twelfth Night — Lecture 1 of 2</title>
+      <description>Twelfth Night — Lecture 1 of 2</description>
+      <pubDate>Sun, 24 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">047_twelfth_night_lecture_1_of_2_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/047_twelfth_night_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:52</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/William_Hamilton_-_The_revelation_of_Olivia%27s_betrothal%2C_from_%22Twelfth_Night%2C%22_Act_V%2C_Scene_i_-_Google_Art_Project.jpg"/>
+    </item>
+
+    <item>
+      <title>Twelfth Night — Lecture 2 of 2 → King Lear — Lecture 1 of 4</title>
+      <description>Twelfth Night — Lecture 2 of 2 → King Lear — Lecture 1 of 4</description>
+      <pubDate>Sun, 24 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/048_twelfth_night_lecture_2_of_2_king_lear_lecture_1_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:43</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Lear_and_Cordelia_%281849-54%29.jpg"/>
+    </item>
+
+    <item>
+      <title>King Lear — Lecture 2 of 4</title>
+      <description>King Lear — Lecture 2 of 4</description>
+      <pubDate>Mon, 25 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">049_king_lear_lecture_2_of_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/049_king_lear_lecture_2_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:55</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Lear_and_Cordelia_%281849-54%29.jpg"/>
+    </item>
+
+    <item>
+      <title>King Lear — Lecture 3 of 4</title>
+      <description>King Lear — Lecture 3 of 4</description>
+      <pubDate>Mon, 25 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">050_king_lear_lecture_3_of_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/050_king_lear_lecture_3_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:23:14</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Lear_and_Cordelia_%281849-54%29.jpg"/>
+    </item>
+
+    <item>
+      <title>King Lear — Lecture 4 of 4</title>
+      <description>King Lear — Lecture 4 of 4</description>
+      <pubDate>Tue, 26 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">051_king_lear_lecture_4_of_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/051_king_lear_lecture_4_of_4_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:23</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Lear_and_Cordelia_%281849-54%29.jpg"/>
+    </item>
+
+    <item>
+      <title>The Tempest — Lecture 1 of 2</title>
+      <description>The Tempest — Lecture 1 of 2</description>
+      <pubDate>Tue, 26 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">052_the_tempest_lecture_1_of_2_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/052_the_tempest_lecture_1_of_2_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:27</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse_miranda_the_tempest.jpg"/>
+    </item>
+
+    <item>
+      <title>The Tempest — Lecture 2 of 2 (Conclusion)</title>
+      <description>The Tempest — Lecture 2 of 2 (Conclusion)</description>
+      <pubDate>Wed, 27 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/cantor_shakespeare/main/053_the_tempest_lecture_2_of_2_conclusion_mp3.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:24:54</itunes:duration>
+      <itunes:image href="https://commons.wikimedia.org/wiki/Special:FilePath/Waterhouse_miranda_the_tempest.jpg"/>
+    </item>
+
+  </channel>
+</rss>
